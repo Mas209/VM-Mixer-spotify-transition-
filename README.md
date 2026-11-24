@@ -8,7 +8,7 @@ VM Mixer is an alternative for the spotify mix feature that makes you able to cr
 ## How to use it?
 The same way you use spotify mix with some additions, instead of looking for the songs you want you import them from an already made playlist link.
 
-<img width="1352" height="824" alt="image" src="https://github.com/user-attachments/assets/b48420b1-2f1f-46ac-b12c-d64a6e562fd0" />
+<img width="1354" height="854" alt="image" src="https://github.com/user-attachments/assets/ab764f38-d8d3-4ff0-9b4d-f3b67c6c119c" />
 
 And it stores the songs in a file location of your choice so you don't have to redownload them every time.
 
