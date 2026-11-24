@@ -13,3 +13,11 @@ The same way you use spotify mix with some additions, instead of looking for the
 And it stores the songs in a file location of your choice so you don't have to redownload them every time.
 
 <img width="1349" height="80" alt="image" src="https://github.com/user-attachments/assets/b1961ee0-1043-47e4-8506-89dcdc3a6c65" />
+
+## How was the project made and is it free?
+The project is all made using AI and yes it is free.
+
+## Where to get it?
+Since the project is still in beta it will not be uploaded here just yet, but you if you insist on getting it now you can join our descord server and ping me (x0tw)
+
+https://discord.gg/Tpa9WxX9N
