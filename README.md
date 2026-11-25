@@ -12,7 +12,7 @@ The same way you use spotify mix with some additions, instead of looking for the
 
 And it stores the songs in a file location of your choice so you don't have to redownload them every time.
 
-<img width="1349" height="80" alt="image" src="https://github.com/user-attachments/assets/b1961ee0-1043-47e4-8506-89dcdc3a6c65" />
+<img width="1015" height="57" alt="image" src="https://github.com/user-attachments/assets/117becaf-45eb-4780-989b-d14bc65ae7b5" />
 
 ## How was the project made and is it free?
 The project is all made using AI and yes it is free.
