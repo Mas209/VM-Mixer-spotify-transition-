@@ -18,7 +18,7 @@ And it stores the songs in a file location of your choice so you don't have to r
 The project is all made using AI and yes it is free.
 
 ## Where to get it?
-Since the project is still in beta it will not be uploaded here just yet, but you if you insist on getting it now you can join our discord server and ping me (x0tw)
+The full exe version will be released when we get 10 members on our discord.
 
 discord: https://discord.gg/Tpa9WxX9N
 our site: https://vm-mixer.web.app
